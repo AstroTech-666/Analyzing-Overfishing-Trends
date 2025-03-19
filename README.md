@@ -18,7 +18,7 @@ These were the core questions I sought to answer through a thorough analysis of 
 Simply follow the arrows to guide you through the dashboard’s insights!
 
 ---
-<img src='dashboard_images/navigation_pane.png'>
+<img src='dashboard_images/navigation_pane.gif'>
 
 ---
 
