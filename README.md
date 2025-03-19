@@ -1,5 +1,3 @@
----
-
 # 🌊 Sustainable Development Goal 14 (Life Below Water) Dashboard
 
 ## 🌟 Project Overview
