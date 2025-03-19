@@ -1,18 +1,6 @@
 # 🌊 Sustainable Development Goal 14 (Life Below Water) Dashboard
 
-## 🌟 Project Overview
-
-Welcome to my first university project! Completed in November 2022, this project marks a major milestone where I dove deep into handling large-scale data. What better way to begin my data journey than by exploring the Sustainable Development Goals (SDGs) and their impact on our world.
-
-### In the process, I developed key skills like:
-
-- **Data cleaning** to ensure the dataset is ready for analysis.
-- **Data visualization** to communicate insights effectively.
-- **Exploratory Data Analysis (EDA)** to uncover trends and patterns.
-- **Statistics** to analyze and interpret data meaningfully.
-- **Storytelling & Presentation** to engage and educate others.
-- **Power BI** to bring everything together in an interactive, user-friendly dashboard.
-
+This project focuses on Sustainable Development Goal (SDG) 14: Life Below Water, which aims to conserve and sustainably use the oceans, seas, and marine resources. The goal of this dashboard is to explore and visualize the critical issue of overfishing, which threatens marine ecosystems and biodiversity.
 ---
 
 ## 💡 Problem Statement
