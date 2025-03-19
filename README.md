@@ -2,9 +2,7 @@
 
 ## 🌟 Project Overview
 
-Welcome to my first university project! Completed in November 2022, this project marks a major milestone where I dove deep into handling large-scale data. What better way to begin my data journey than by exploring the Sustainable Development Goals (SDGs) and their impact on our world?
-
-The goal? To tackle the pressing issues related to the SDGs, dive into publicly available data, and create an interactive story that answers key questions. For this project, I focused on SDG 14: **Life Below Water** and specifically examined overfishing — a critical issue threatening marine ecosystems globally.
+Welcome to my first university project! Completed in November 2022, this project marks a major milestone where I dove deep into handling large-scale data. What better way to begin my data journey than by exploring the Sustainable Development Goals (SDGs) and their impact on our world.
 
 ### In the process, I developed key skills like:
 
@@ -32,7 +30,7 @@ These were the core questions I sought to answer through a thorough analysis of 
 Simply follow the arrows to guide you through the dashboard’s insights!
 
 ---
-<img src='dashboard_images/arrows.png'>
+<img src='dashboard_images/navigation_pane.png'>
 
 ---
 
